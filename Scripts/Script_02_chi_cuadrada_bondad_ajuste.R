@@ -1,5 +1,5 @@
 # ==============================================================================
-# UNIDAD DE APRENDIZAJE: DISEÑOS EXPERIMENTALES
+# UNIDAD DE APRENDIZAJE: Estadística en la Investigación Científica
 # TRABAJO: Análisis de Chi-Cuadrada - Bondad de Ajuste
 # Caso: Durabilidad de guantes de protección contra corte por áreas de producción
 # Estudiante: Braulio Antonio García Flores
